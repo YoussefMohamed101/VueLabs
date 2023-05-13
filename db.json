@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 13 Pro",
+      "price": 999,
+      "description": "The most advanced iPhone ever",
+      "quantity": 10,
+      "image": "https://www.google.com/search?q=iphone+13+pro&rlz=1C5CHFA_enUS900US900&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiWzo2kwM7wAhWQXM0KHQgjDdMQ_AUIEigB&biw=1366&bih=657#imgrc=_"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S21",
+      "price": 799,
+      "description": "The ultimate flagship phone",
+      "quantity": 5,
+      "image": "https://www.google.com/search?q=samsung+galaxy+s21&rlz=1C5CHFA_enUS900US900&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiN27KkwM7wAhXJXM0KHQjyAbMQ_AUIEigB&biw=1366&bih=657#imgrc=_"
+    },
+    {
+      "id": 3,
+      "name": "MacBook Pro M1",
+      "price": 1499,
+      "description": "The ultimate pro notebook",
+      "quantity": 3,
+      "image": "https://www.google.com/search?q=macbook+pro+m1&rlz=1C5CHFA_enUS900US900&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiN8J7pwM7wAhWTAZ0JHcr6DZMQ_AUIEigB&biw=1366&bih=657#imgrc=_"
+    },
+    {
+      "id": 4,
+      "name": "Sony Playstation 5",
+      "price": 499,
+      "description": "The future of gaming",
+      "quantity": 8,
+      "image": "https://www.google.com/search?q=sony+playstation+5&rlz=1C5CHFA_enUS900US900&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi2zJ7vwM7wAhXOXM0KHQDTC2MQ_AUIEigB&biw=1366&bih=657#imgrc=_"
+    },
+    {
+      "id": 5,
+      "name": "Samsung 55-inch QLED TV",
+      "price": 1299,
+      "description": "The ultimate viewing experience",
+      "quantity": 0,
+      "image": "https://www.google.com/search?q=samsung+55+inch+qled+tv&rlz=1C5CHFA_enUS900US900&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiTjJ7xwM7wAhXOXM0KHQDTBQ4Q_AUIEigB&biw=1366&bih=657#imgrc=_"
+    },
+    {
+      "id": 6,
+      "name": "Bose QuietComfort 35 II",
+      "price": 299,
+      "description": "The ultimate noise-cancelling headphones",
+      "quantity": 0,
+      "image": "https://www.google.com/search?q=bose+quietcomfort+35+ii&rlz=1C5CHFA_enUS900US900&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiBmJr5wM7wAhXOXM0KHQDTBjQQ_AUIEigB&biw=1366&bih=657#imgrc=_"
+    }
+  ]
+}
